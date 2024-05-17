@@ -1,6 +1,3 @@
-**password validation **
+**password validation**
 
-*tech stack*
-1 HTML5
-2 CSS
-3 JavaScript 
+**tech stack: HTML5 CSS JavaScript**
